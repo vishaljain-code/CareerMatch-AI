@@ -1,0 +1,22 @@
+{
+  "name": "careermatch-ai",
+  "version": "1.0.0",
+  "description": "CareerMatch AI — AI-Powered Resume & Job Description Analyzer",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "test:server": "cd server && npm test",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "ai",
+    "resume",
+    "job-matcher",
+    "gemini",
+    "express",
+    "react",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT"
+}
